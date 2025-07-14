@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola red 👋<br><br>Soy Jeremie, un chico de 22 años graduado en Desarrollo de Aplicaciones Web en el I.E.S. Alonso de Avellaneda.<br><br>Tengo conocimientos en varios lenguajes de programación como Angular, Java, Node.js, .NET, ASP.NET, Blazor, HTML y CSS. Soy un joven entusiasmado con muchas ganas de seguir creciendo y aprendiendo en este apasionante mundo del desarrollo web. ¡Estoy siempre en busca de nuevos desafíos y oportunidades para mejorar mis habilidades!
+Hola red 👋<br><br>Soy Jeremie, un chico de 22 años graduado en Desarrollo de Aplicaciones Web en I.E.S. Alonso de Avellaneda.<br><br>Tengo conocimientos en varios lenguajes de programación como Angular, Java, Node.js, .NET, ASP.NET, Blazor, HTML y CSS. Soy un joven entusiasmado con muchas ganas de seguir creciendo y aprendiendo en este apasionante mundo del desarrollo web. ¡Estoy siempre en busca de nuevos desafíos y oportunidades para mejorar mis habilidades!
 
 
 ## 🌐 Socials:
